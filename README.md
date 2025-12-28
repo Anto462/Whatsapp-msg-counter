@@ -24,7 +24,7 @@ Explicando el codigo:
 - Si deseas ver mas detalles o si por ejemplo la lista de participantes es muy grande el mismo pograma te pedira que generes el reporte en .pdf. Eso lo haces presionando el boton inferior.
 
 - Tras presionarlo y selecionar la ruta de guardado te mostrara el mensaje exito: 
-<img width="510" height="442" alt="confirmacion pdf" src="https://github.com/user-attachments/assets/4a4a4114-c4b1-47fd-acd1-75fe948a25bc" />
+<img width="507" height="431" alt="confirmacion pdf" src="https://github.com/user-attachments/assets/103d2e9a-be85-4bf7-ba8e-40ff26c5db01" />
 
 - Este es un ejemplo de un PDF basico generado:
 <img width="757" height="558" alt="Resultado odf" src="https://github.com/user-attachments/assets/3afadc04-8505-4f1e-9c75-5f93576e58b7" />
@@ -59,7 +59,7 @@ Code Explanation
 - If you want to view more details, or if the participant list is extense, the program will indicate you to generate a .pdf report. This is done by pressing the bottom button.
 
 - After clicking it and selecting the save location, a success message will be displayed:
-<img width="510" height="442" alt="pdf confirmation" src="https://github.com/user-attachments/assets/4a4a4114-c4b1-47fd-acd1-75fe948a25bc" />
+<img width="507" height="431" alt="confirmacion pdf" src="https://github.com/user-attachments/assets/eaab856f-f766-4a9a-8ad8-040ed2a69cae" />
 
 - This is an example of a basic report on PDF:
 <img width="757" height="558" alt="pdf result" src="https://github.com/user-attachments/assets/3afadc04-8505-4f1e-9c75-5f93576e58b7" />
